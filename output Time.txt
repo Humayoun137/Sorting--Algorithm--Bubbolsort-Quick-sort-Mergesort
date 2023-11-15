@@ -1,0 +1,21 @@
+input1: 
+Bubblesort=Assending: 39s,Decending: 45s
+Mergesort=Assending: 0.156s,Decending: 0.161s
+Quicksort=Assending: 0.031s,Decending: 0.015s
+Best Sorting:Assending:Quicksort,Decending:Quicksort
+
+
+
+input2: 
+Bubblesort=Assending: 12s,Decending: 49s
+Mergesort=Assending: 0.141s,Decending: 0.156s
+Quicksort=Assending: 0.015s,Decending: 0.015s
+Best Sorting:Assending:Quicksort,Decending:Quicksort
+
+
+
+input3: 
+Bubblesort=Assending: 54s,Decending: 57s
+Mergesort=Assending: 0.125s,Decending: 0.141s
+Quicksort=Assending: 0.016s,Decending: 0s
+Best Sorting:Assending:Quicksort,Decending:Quicksort
